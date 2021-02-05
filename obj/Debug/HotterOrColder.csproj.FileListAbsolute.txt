@@ -1,0 +1,7 @@
+D:\Development\Github\ACFTechnologies\HotterOrColder\bin\Debug\HotterOrColder.exe.config
+D:\Development\Github\ACFTechnologies\HotterOrColder\bin\Debug\HotterOrColder.exe
+D:\Development\Github\ACFTechnologies\HotterOrColder\bin\Debug\HotterOrColder.pdb
+D:\Development\Github\ACFTechnologies\HotterOrColder\obj\Debug\HotterOrColder.csprojAssemblyReference.cache
+D:\Development\Github\ACFTechnologies\HotterOrColder\obj\Debug\HotterOrColder.csproj.CoreCompileInputs.cache
+D:\Development\Github\ACFTechnologies\HotterOrColder\obj\Debug\HotterOrColder.exe
+D:\Development\Github\ACFTechnologies\HotterOrColder\obj\Debug\HotterOrColder.pdb
